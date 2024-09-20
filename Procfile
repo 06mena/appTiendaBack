@@ -1,0 +1,1 @@
+web: gunicorn nombre_proyecto.wsgi --bind 0.0.0.0:$POR
