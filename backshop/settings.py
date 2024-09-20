@@ -69,6 +69,8 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
 ]
 
+DEBUG = True
+
 # Configuración de CORS
 CORS_ALLOW_ALL_ORIGINS = True  # Permite solicitudes de cualquier origen
 
