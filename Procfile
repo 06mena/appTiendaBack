@@ -1,1 +1,1 @@
-web: gunicorn nombre_proyecto.wsgi --bind 0.0.0.0:$POR
+web: python manage.py runserver 0.0.0.0:8000
