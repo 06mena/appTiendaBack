@@ -99,10 +99,10 @@ WSGI_APPLICATION = 'backshop.wsgi.application'
 DATABASES = {
     'default':{
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'tienda',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
+        'NAME': 'b6qzsa7yreuqf2ori6yg',
+        'USER': 'uqajqpykpzu0jghi',
+        'PASSWORD': 'mmjFPHiNy4mwyzdQjJ7a',
+        'HOST': 'b6qzsa7yreuqf2ori6yg-mysql.services.clever-cloud.com',
         'PORT': '3306',
     }
     
